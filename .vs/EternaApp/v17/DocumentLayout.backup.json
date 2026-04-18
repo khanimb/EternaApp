@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xanim\\Desktop\\EternaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|c:\\users\\xanim\\desktop\\eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|solutionrelative:eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|c:\\users\\xanim\\desktop\\eternaapp\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|solutionrelative:data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EternaApp",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\EternaApp\\EternaApp.csproj",
+              "RelativeDocumentMoniker": "EternaApp.csproj",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\EternaApp\\EternaApp.csproj*",
+              "RelativeToolTip": "EternaApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T19:03:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EternaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Data\\EternaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EternaDbContext.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Data\\EternaDbContext.cs",
+              "RelativeToolTip": "Data\\EternaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T19:02:56.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
