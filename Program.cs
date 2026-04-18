@@ -1,7 +1,13 @@
+using EternaApp.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+var config=builder.Configuration;
+builder.Services.AddDbContext<EternaDbContext>(options =>
+    options.UseSqlServer(config.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

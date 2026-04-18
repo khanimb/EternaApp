@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Xanim\\Desktop\\EternaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|c:\\users\\xanim\\desktop\\eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|solutionrelative:eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|c:\\users\\xanim\\desktop\\eternaapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|c:\\users\\xanim\\desktop\\eternaapp\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|solutionrelative:data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|c:\\users\\xanim\\desktop\\eternaapp\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F27AED9-FB9E-4B67-8F68-72AB80319FDB}|EternaApp.csproj|solutionrelative:views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EternaApp",
-              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\EternaApp\\EternaApp.csproj",
-              "RelativeDocumentMoniker": "EternaApp.csproj",
-              "ToolTip": "C:\\Users\\Xanim\\Desktop\\EternaApp\\EternaApp.csproj*",
-              "RelativeToolTip": "EternaApp.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-18T19:03:17.106Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Views\\Test\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Test\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T23:21:25.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EternaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Data\\EternaDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\EternaDbContext.cs",
-              "ToolTip": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Data\\EternaDbContext.cs",
-              "RelativeToolTip": "Data\\EternaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\EternaApp\\Controllers\\TestController.cs*",
+              "RelativeToolTip": "Controllers\\TestController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T19:02:56.259Z",
+              "WhenOpened": "2026-04-18T23:14:11.005Z",
               "EditorCaption": ""
             }
           ]

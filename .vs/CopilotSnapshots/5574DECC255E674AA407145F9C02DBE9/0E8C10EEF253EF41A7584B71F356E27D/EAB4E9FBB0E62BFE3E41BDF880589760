@@ -1,0 +1,30 @@
+﻿using EternaApp.Data;
+using EternaApp.Models;
+using EternaApp.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
+namespace EternaApp.Controllers
+{
+    public class ProductController : Controller
+    {
+        public IActionResult Index(EternaDbContext _context)
+        {
+            ProductVm productVm = new ProductVm()
+            {
+                Categories = _context.Categories.ToList(),
+                Products = _context.Products.ToList()
+            };
+            return View(productVm);
+        }
+        public IActionResult Detail(int id, EternaDbContext _context)
+        {
+            Product product = _context.Products
+                .Include(p => p.Category)
+                .Include(p => p.ProductImages)
+                .FirstOrDefault(p => p.Id == id);
+            if (product == null) return NotFound();
+            return View(product);
+        }
+    }
+}
